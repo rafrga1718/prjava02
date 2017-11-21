@@ -1,0 +1,10 @@
+1.git checkout -b branca00
+5.git checkout master
+  git log --oneline
+10.git merge branca00
+13.git checkout -b branca01
+  nano Prjava02.java
+  git add .
+  git commit
+6.No, ja que ha sigut afegida dins de la branca branca00.
+7.Si, ja que la modificació es va realitzar a la branca branca00.
